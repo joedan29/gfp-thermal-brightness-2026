@@ -1,0 +1,70 @@
+{
+  "team_name": "纳诺蔚来",
+  "sequence_count": 6,
+  "format_passed": true,
+  "exclusion_list_checked": false,
+  "exclusion_list_path": null,
+  "errors": [],
+  "items": [
+    {
+      "Seq_ID": "1",
+      "Name": "sfGFP_consensus_control",
+      "Length": 238,
+      "Starts_M": true,
+      "Standard_AA": true,
+      "Unique_in_panel": true,
+      "In_Exclusion_List": null,
+      "Errors": []
+    },
+    {
+      "Seq_ID": "2",
+      "Name": "sfGFP_K162I",
+      "Length": 238,
+      "Starts_M": true,
+      "Standard_AA": true,
+      "Unique_in_panel": true,
+      "In_Exclusion_List": null,
+      "Errors": []
+    },
+    {
+      "Seq_ID": "3",
+      "Name": "sfGFP_N198P",
+      "Length": 238,
+      "Starts_M": true,
+      "Standard_AA": true,
+      "Unique_in_panel": true,
+      "In_Exclusion_List": null,
+      "Errors": []
+    },
+    {
+      "Seq_ID": "4",
+      "Name": "sfGFP_K140L",
+      "Length": 238,
+      "Starts_M": true,
+      "Standard_AA": true,
+      "Unique_in_panel": true,
+      "In_Exclusion_List": null,
+      "Errors": []
+    },
+    {
+      "Seq_ID": "5",
+      "Name": "sfGFP_E132R_N198P",
+      "Length": 238,
+      "Starts_M": true,
+      "Standard_AA": true,
+      "Unique_in_panel": true,
+      "In_Exclusion_List": null,
+      "Errors": []
+    },
+    {
+      "Seq_ID": "6",
+      "Name": "sfGFP_Y106R_K162I",
+      "Length": 238,
+      "Starts_M": true,
+      "Standard_AA": true,
+      "Unique_in_panel": true,
+      "In_Exclusion_List": null,
+      "Errors": []
+    }
+  ]
+}
